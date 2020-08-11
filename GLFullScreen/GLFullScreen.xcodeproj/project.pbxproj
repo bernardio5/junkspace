@@ -1,0 +1,424 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		085A88BC15D443D900C2A1BE /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 085A88BB15D443D900C2A1BE /* icon.png */; };
+		0875A53B15D2AC5A003A752B /* orbitalTiles.png in Resources */ = {isa = PBXBuildFile; fileRef = 0875A53A15D2AC5A003A752B /* orbitalTiles.png */; };
+		0875A54015D2AC73003A752B /* mReal.mm in Sources */ = {isa = PBXBuildFile; fileRef = 0875A53D15D2AC73003A752B /* mReal.mm */; };
+		0875A54115D2AC73003A752B /* mVec3.mm in Sources */ = {isa = PBXBuildFile; fileRef = 0875A53F15D2AC73003A752B /* mVec3.mm */; };
+		0875A54515D2B131003A752B /* gameObject.mm in Sources */ = {isa = PBXBuildFile; fileRef = 0875A54415D2B131003A752B /* gameObject.mm */; };
+		0875A54815D2B14F003A752B /* SGManager.mm in Sources */ = {isa = PBXBuildFile; fileRef = 0875A54715D2B14F003A752B /* SGManager.mm */; };
+		0875A54F15D2B180003A752B /* satBall.mm in Sources */ = {isa = PBXBuildFile; fileRef = 0875A54A15D2B180003A752B /* satBall.mm */; };
+		0875A55015D2B180003A752B /* satellite.mm in Sources */ = {isa = PBXBuildFile; fileRef = 0875A54C15D2B180003A752B /* satellite.mm */; };
+		0875A55115D2B180003A752B /* satSource.mm in Sources */ = {isa = PBXBuildFile; fileRef = 0875A54E15D2B180003A752B /* satSource.mm */; };
+		0875A55315D2B189003A752B /* catclip.xml in Resources */ = {isa = PBXBuildFile; fileRef = 0875A55215D2B189003A752B /* catclip.xml */; };
+		0875A55615D2B1E4003A752B /* eearth.mm in Sources */ = {isa = PBXBuildFile; fileRef = 0875A55515D2B1E4003A752B /* eearth.mm */; };
+		0875A55D15D2B314003A752B /* mx4.mm in Sources */ = {isa = PBXBuildFile; fileRef = 0875A55C15D2B314003A752B /* mx4.mm */; };
+		08BEE4FC15D55930008BF089 /* SGBillboard.mm in Sources */ = {isa = PBXBuildFile; fileRef = 08BEE4FB15D55930008BF089 /* SGBillboard.mm */; };
+		256AC3DA0F4B6AC300CF3369 /* MainControler.m in Sources */ = {isa = PBXBuildFile; fileRef = 256AC3D90F4B6AC300CF3369 /* MainControler.m */; };
+		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
+		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
+		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
+		AF01F34D113DE4FD001D73F6 /* Texture.m in Sources */ = {isa = PBXBuildFile; fileRef = AF01F34C113DE4FD001D73F6 /* Texture.m */; };
+		AF9DBBC6113C611C00D05754 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF9DBBC5113C611C00D05754 /* QuartzCore.framework */; };
+		AFBD7641113886AE0015E685 /* MyOpenGLView.m in Sources */ = {isa = PBXBuildFile; fileRef = AFBD7640113886AE0015E685 /* MyOpenGLView.m */; };
+		AFBD76861138889A0015E685 /* Scene.m in Sources */ = {isa = PBXBuildFile; fileRef = AFBD76851138889A0015E685 /* Scene.m */; };
+		AFBD7716113895850015E685 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = AFBD7714113895850015E685 /* MainMenu.xib */; };
+		AFD4D88A113C504F00C2DE76 /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AFD4D889113C504F00C2DE76 /* OpenGL.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		085A88BB15D443D900C2A1BE /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		0875A53A15D2AC5A003A752B /* orbitalTiles.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = orbitalTiles.png; sourceTree = "<group>"; };
+		0875A53C15D2AC73003A752B /* mReal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = mReal.h; path = ../lib/math/mReal.h; sourceTree = "<group>"; };
+		0875A53D15D2AC73003A752B /* mReal.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = mReal.mm; path = ../lib/math/mReal.mm; sourceTree = "<group>"; };
+		0875A53E15D2AC73003A752B /* mVec3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = mVec3.h; path = ../lib/math/mVec3.h; sourceTree = "<group>"; };
+		0875A53F15D2AC73003A752B /* mVec3.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = mVec3.mm; path = ../lib/math/mVec3.mm; sourceTree = "<group>"; };
+		0875A54315D2B131003A752B /* gameObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = gameObject.h; path = specific/gameObject.h; sourceTree = "<group>"; };
+		0875A54415D2B131003A752B /* gameObject.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = gameObject.mm; path = specific/gameObject.mm; sourceTree = "<group>"; };
+		0875A54615D2B14F003A752B /* SGManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SGManager.h; path = specific/SGManager.h; sourceTree = "<group>"; };
+		0875A54715D2B14F003A752B /* SGManager.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = SGManager.mm; path = specific/SGManager.mm; sourceTree = "<group>"; };
+		0875A54915D2B180003A752B /* satBall.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = satBall.h; path = specific/satBall.h; sourceTree = "<group>"; };
+		0875A54A15D2B180003A752B /* satBall.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = satBall.mm; path = specific/satBall.mm; sourceTree = "<group>"; };
+		0875A54B15D2B180003A752B /* satellite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = satellite.h; path = specific/satellite.h; sourceTree = "<group>"; };
+		0875A54C15D2B180003A752B /* satellite.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = satellite.mm; path = specific/satellite.mm; sourceTree = "<group>"; };
+		0875A54D15D2B180003A752B /* satSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = satSource.h; path = specific/satSource.h; sourceTree = "<group>"; };
+		0875A54E15D2B180003A752B /* satSource.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = satSource.mm; path = specific/satSource.mm; sourceTree = "<group>"; };
+		0875A55215D2B189003A752B /* catclip.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = catclip.xml; path = specific/catclip.xml; sourceTree = "<group>"; };
+		0875A55415D2B1E4003A752B /* eearth.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = eearth.h; path = specific/eearth.h; sourceTree = "<group>"; };
+		0875A55515D2B1E4003A752B /* eearth.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = eearth.mm; path = specific/eearth.mm; sourceTree = "<group>"; };
+		0875A55B15D2B314003A752B /* mx4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = mx4.h; path = ../lib/math/mx4.h; sourceTree = "<group>"; };
+		0875A55C15D2B314003A752B /* mx4.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = mx4.mm; path = ../lib/math/mx4.mm; sourceTree = "<group>"; };
+		089C165DFE840E0CC02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		08BEE4FA15D55930008BF089 /* SGBillboard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SGBillboard.h; path = specific/SGBillboard.h; sourceTree = "<group>"; };
+		08BEE4FB15D55930008BF089 /* SGBillboard.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = SGBillboard.mm; path = specific/SGBillboard.mm; sourceTree = "<group>"; };
+		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		256AC3D80F4B6AC300CF3369 /* MainController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainController.h; sourceTree = "<group>"; };
+		256AC3D90F4B6AC300CF3369 /* MainControler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainControler.m; sourceTree = "<group>"; };
+		256AC3F00F4B6AF500CF3369 /* GLFullScreen_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLFullScreen_Prefix.pch; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		8D1107310486CEB800E47090 /* GLFullScreen-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GLFullScreen-Info.plist"; sourceTree = "<group>"; };
+		8D1107320486CEB800E47090 /* GLFullScreen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GLFullScreen.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AF01F34B113DE4FD001D73F6 /* Texture.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Texture.h; sourceTree = "<group>"; };
+		AF01F34C113DE4FD001D73F6 /* Texture.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Texture.m; sourceTree = "<group>"; };
+		AF9DBBC5113C611C00D05754 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		AFBD763F113886AE0015E685 /* MyOpenGLView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyOpenGLView.h; sourceTree = "<group>"; };
+		AFBD7640113886AE0015E685 /* MyOpenGLView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyOpenGLView.m; sourceTree = "<group>"; };
+		AFBD76841138889A0015E685 /* Scene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Scene.h; sourceTree = "<group>"; };
+		AFBD76851138889A0015E685 /* Scene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Scene.m; sourceTree = "<group>"; };
+		AFBD7715113895850015E685 /* English */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = English; path = English.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		AFD4D889113C504F00C2DE76 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8D11072E0486CEB800E47090 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
+				AFD4D88A113C504F00C2DE76 /* OpenGL.framework in Frameworks */,
+				AF9DBBC6113C611C00D05754 /* QuartzCore.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				256AC3D80F4B6AC300CF3369 /* MainController.h */,
+				256AC3D90F4B6AC300CF3369 /* MainControler.m */,
+				AFBD763F113886AE0015E685 /* MyOpenGLView.h */,
+				AFBD7640113886AE0015E685 /* MyOpenGLView.m */,
+				AFBD76841138889A0015E685 /* Scene.h */,
+				AFBD76851138889A0015E685 /* Scene.m */,
+				AF01F34B113DE4FD001D73F6 /* Texture.h */,
+				AF01F34C113DE4FD001D73F6 /* Texture.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		0875A53615D2ABEE003A752B /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				0875A53C15D2AC73003A752B /* mReal.h */,
+				0875A53D15D2AC73003A752B /* mReal.mm */,
+				0875A53E15D2AC73003A752B /* mVec3.h */,
+				0875A53F15D2AC73003A752B /* mVec3.mm */,
+				0875A55B15D2B314003A752B /* mx4.h */,
+				0875A55C15D2B314003A752B /* mx4.mm */,
+				08BEE4FA15D55930008BF089 /* SGBillboard.h */,
+				08BEE4FB15D55930008BF089 /* SGBillboard.mm */,
+			);
+			name = lib;
+			sourceTree = "<group>";
+		};
+		0875A53815D2ABF8003A752B /* sats */ = {
+			isa = PBXGroup;
+			children = (
+				0875A55215D2B189003A752B /* catclip.xml */,
+				0875A54B15D2B180003A752B /* satellite.h */,
+				0875A54C15D2B180003A752B /* satellite.mm */,
+				0875A54915D2B180003A752B /* satBall.h */,
+				0875A54A15D2B180003A752B /* satBall.mm */,
+				0875A54D15D2B180003A752B /* satSource.h */,
+				0875A54E15D2B180003A752B /* satSource.mm */,
+			);
+			name = sats;
+			sourceTree = "<group>";
+		};
+		0875A53915D2AC1A003A752B /* images */ = {
+			isa = PBXGroup;
+			children = (
+				085A88BB15D443D900C2A1BE /* icon.png */,
+				0875A53A15D2AC5A003A752B /* orbitalTiles.png */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+		0875A54215D2B0F1003A752B /* game */ = {
+			isa = PBXGroup;
+			children = (
+				0875A55415D2B1E4003A752B /* eearth.h */,
+				0875A55515D2B1E4003A752B /* eearth.mm */,
+				0875A54615D2B14F003A752B /* SGManager.h */,
+				0875A54715D2B14F003A752B /* SGManager.mm */,
+				0875A54315D2B131003A752B /* gameObject.h */,
+				0875A54415D2B131003A752B /* gameObject.mm */,
+			);
+			name = game;
+			sourceTree = "<group>";
+		};
+		1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */,
+				AFD4D889113C504F00C2DE76 /* OpenGL.framework */,
+				AF9DBBC5113C611C00D05754 /* QuartzCore.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7A2FEA54F0111CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				29B97324FDCFA39411CA2CEA /* AppKit.framework */,
+				29B97325FDCFA39411CA2CEA /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8D1107320486CEB800E47090 /* GLFullScreen.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* GLFullScreen */ = {
+			isa = PBXGroup;
+			children = (
+				0875A53915D2AC1A003A752B /* images */,
+				0875A53615D2ABEE003A752B /* lib */,
+				0875A53815D2ABF8003A752B /* sats */,
+				0875A54215D2B0F1003A752B /* game */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = GLFullScreen;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				256AC3F00F4B6AF500CF3369 /* GLFullScreen_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				AFBD7714113895850015E685 /* MainMenu.xib */,
+				8D1107310486CEB800E47090 /* GLFullScreen-Info.plist */,
+				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */,
+				1058C7A2FEA54F0111CA2CBB /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8D1107260486CEB800E47090 /* GLFullScreen */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "GLFullScreen" */;
+			buildPhases = (
+				8D1107290486CEB800E47090 /* Resources */,
+				8D11072C0486CEB800E47090 /* Sources */,
+				8D11072E0486CEB800E47090 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GLFullScreen;
+			productInstallPath = "$(HOME)/Applications";
+			productName = GLFullScreen;
+			productReference = 8D1107320486CEB800E47090 /* GLFullScreen.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0440;
+			};
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "GLFullScreen" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* GLFullScreen */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8D1107260486CEB800E47090 /* GLFullScreen */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8D1107290486CEB800E47090 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */,
+				AFBD7716113895850015E685 /* MainMenu.xib in Resources */,
+				0875A53B15D2AC5A003A752B /* orbitalTiles.png in Resources */,
+				0875A55315D2B189003A752B /* catclip.xml in Resources */,
+				085A88BC15D443D900C2A1BE /* icon.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8D11072C0486CEB800E47090 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072D0486CEB800E47090 /* main.m in Sources */,
+				256AC3DA0F4B6AC300CF3369 /* MainControler.m in Sources */,
+				AFBD7641113886AE0015E685 /* MyOpenGLView.m in Sources */,
+				AFBD76861138889A0015E685 /* Scene.m in Sources */,
+				AF01F34D113DE4FD001D73F6 /* Texture.m in Sources */,
+				0875A54015D2AC73003A752B /* mReal.mm in Sources */,
+				0875A54115D2AC73003A752B /* mVec3.mm in Sources */,
+				0875A54515D2B131003A752B /* gameObject.mm in Sources */,
+				0875A54815D2B14F003A752B /* SGManager.mm in Sources */,
+				0875A54F15D2B180003A752B /* satBall.mm in Sources */,
+				0875A55015D2B180003A752B /* satellite.mm in Sources */,
+				0875A55115D2B180003A752B /* satSource.mm in Sources */,
+				0875A55615D2B1E4003A752B /* eearth.mm in Sources */,
+				0875A55D15D2B314003A752B /* mx4.mm in Sources */,
+				08BEE4FC15D55930008BF089 /* SGBillboard.mm in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		089C165CFE840E0CC02AAC07 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				089C165DFE840E0CC02AAC07 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		AFBD7714113895850015E685 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AFBD7715113895850015E685 /* English */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C01FCF4B08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COMBINE_HIDPI_IMAGES = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = GLFullScreen_Prefix.pch;
+				INFOPLIST_FILE = "GLFullScreen-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				PRODUCT_NAME = GLFullScreen;
+			};
+			name = Debug;
+		};
+		C01FCF4C08A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = GLFullScreen_Prefix.pch;
+				INFOPLIST_FILE = "GLFullScreen-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				PRODUCT_NAME = GLFullScreen;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "GLFullScreen" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4B08A954540054247B /* Debug */,
+				C01FCF4C08A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "GLFullScreen" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

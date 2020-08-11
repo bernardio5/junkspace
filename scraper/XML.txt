@@ -1,0 +1,16 @@
+- <App>
+	- <Map id="40" swlon="-76.71911716461182" swlat="39.24797472102073" nelon="-76.70538425445557" nelat="39.26326082655933">
+		- <Crystals>
+			<Crystal id="618" longitude="-76.71160697937012" latitude="39.257489051916494" quantity="200">trymec1</Crystal>
+			<Crystal id="619" longitude="-76.7076587677002" latitude="39.25516292890265" quantity="200">trymec2</Crystal>
+			<Crystal id="620" longitude="-76.71362400054932" latitude="39.25493031235663" quantity="200">trymec3</Crystal>
+			<Crystal id="621" longitude="-76.71413898468018" latitude="39.25722321319236" quantity="200">trymec4</Crystal>
+			<Crystal id="622" longitude="-76.71525478363037" latitude="39.25393337556097" quantity="200">trymec5</Crystal>
+			<Crystal id="623" longitude="-76.7125940322876" latitude="39.253601060145755" quantity="200">trymec6</Crystal>
+		</Crystals>
+		<Extractors></Extractors>
+		<Towers></Towers>
+		<Factories></Factories>
+		<Drones></Drones>
+</Map>
+</App>

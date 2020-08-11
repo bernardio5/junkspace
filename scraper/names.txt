@@ -1,0 +1,989 @@
+<satName> VANGUARD </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> EXPLORER </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TIROS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TRANSIT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SOLRAD </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> THOR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DELTA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ECHO </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> COURIER </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SCOUT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MIDAS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TRAAC
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TELSTAR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> FTV </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ALOUETTE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ANNA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> RELAY </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ERS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DASH </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> WESTFORD </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HITCH </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ATLAS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SYNCOM </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> RADIATION </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GGSE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SECOR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GREB
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OPS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ELEKTRON </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> COSMOS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SL-3 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OGO </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CALSPHERE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TITAN </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> LES </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> PORCUPINE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OSCAR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> INTELSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SL-8 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> LCS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DODECAPOLE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TEMPSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> NAVSPASUR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OV1-2
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OV2-1
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> A-1 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DIAMANT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> FR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ESSA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DIAPASON </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OV1-4
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OV1-5
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OV1-5 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OV1-4 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OAO </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> NIMBUS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> PAGEOS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OV3-3
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ATS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OV1-9
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OV1-10 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OV1-9 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DIADEME </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TIMATION </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DODGE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SURCAL </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AURORA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OV1-13
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OV1-14
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OV1-14 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OV1-13 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OV2-5
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ISIS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OV1-19
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OV1-19 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> METEOR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> THORAD </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SOICAL </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AZUR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SKYNET </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ITOS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SERT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> NATO </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TOPO </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DFH-1
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> NNSS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SL-11 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SL-12 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> NOAA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TANSEI </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> M-4S </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OV1-20/OV1-21 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OV1-21 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> RIGIDSPHERE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> EOLE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SHINSEI </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ASTEX </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> PROSPERO </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> BLACK </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AUREOLE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> LANDSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TRIAD </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ANIK </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SL-6 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MIRANDA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> WESTAR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MOLNIYA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SMS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> INTASAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SYMPHONIE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> STARLETTE
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GEOS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SSU </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> KIKU </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> N-1 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GOES </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SATCOM </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> RADUGA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CTS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> NTS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MARISAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> UME </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> LAGEOS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> COMSTAR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> P </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> PALAPA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> EKRAN </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ESA/GOES
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SL-14 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HIMAWARI </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SIRIO
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> PROGNOZ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TRANSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> METEOSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SAKURA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> IUE
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> KYOKKO </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> YURI </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TRAAC </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OTS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SEASAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> JIKIKEN </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> M-3H </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> RADIO </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GORIZONT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SCATHA
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AYAME </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SBS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ESIAFI </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> NOVA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> APPLE
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DYNAMICS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> FLTSATCOM </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> INTERCOSMOS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> N-2 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MARECS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> INSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DSCS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> IRAS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> IRAS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ASTRON
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OV2-3
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TDRS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> IUS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> EUTELSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> NAHUEL </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HILAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GALAXY </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ARABSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> STTW-T1
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> STTW-T2
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CZ-3 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CHINASAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> NAVSTAR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TELECOM </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ARIANE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CCE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> LEASAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ERBS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SPACENET </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> BRAZILSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GEOSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GSTAR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MORELOS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OPTUS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ASC </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SL-16 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> STTW-1
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> BS-2B </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SPOT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> VIKING
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> EGS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> JAS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> H-1 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> POLAR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MOS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AGILA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DMSP </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TVSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> STTW-2
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> IRS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> NSS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> PAS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> P/L </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OKEAN </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> FENGYUN </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CZ-4 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TDF </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ASTRA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> STTW-3
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> EXOS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> JCSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TELE-X
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SUPERBIRD </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DFS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> NADEZHDA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OLYMPUS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HIPPARCOS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SIRIUS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MAGION </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> COBE
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> COBE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CRRES </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> STTW-4
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DEBUT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> USA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ASIASAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> NEWSAT-1 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HST
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MACSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ROSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CRRES
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MARCOPOLO </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> BS-3A </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> INMARSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ITALSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> INFORMATOR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> REX
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ORBCOMM-X
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TUBSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SARA
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> BS-3B </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> M-3S2 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> UARS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> STTW-5
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SAMPEX
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TOPEX/POSEIDON
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> S80/T
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HISPASAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> FREJA
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HELLAS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> IRIS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OXP </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SCD </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> PEGASUS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> START </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SL-18 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> UFO </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ARASENE
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HGS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> RADCAL
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TEMISAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ACTS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TOS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> STELLA
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> KITSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> POSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HEALTHSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ITAMSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> EYESAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> PAM-D </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SOLIDARIDAD </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DIRECTV </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> THAICOM </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GALS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> VEP
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> H-2 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SJ-4
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> STEP </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> STRV </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> BS-3N
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> APSTAR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> APEX
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> APEX </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TURKSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ETS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> EXPRESS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ELEKTRO </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> RESURS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GEO </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DFH-3 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> LUCH
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SL-19 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TSIKADA
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ASTRID
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> FAISAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HOT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ORBCOMM </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ORBVIEW </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AMSC </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CERISE
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> UPM/LBSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> KOREASAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> NSTAR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SICH </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> LUCH </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> RADARSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SURFSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ISO
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AMOS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SKIPPER
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ECHOSTAR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> XTE
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AFRICASAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ABS-1A </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> PAKSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GONETS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> POLAR
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> REX </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> PSLV </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MSX </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HILAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TOMS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CERISE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ADEOS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> FAST
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> INTERBALL </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> UNAMSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AMC-1 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MEASAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ISO </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AMC-2 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HALCA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> M-5 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> B-SAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> IRIDIUM </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ABS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> FORTE
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DUMMY </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> W75 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AMC-3 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> FAISAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> IABS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MAQSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TEAMSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> KUPON
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> INDOSTAR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TRMM
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> EQUATOR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HGS-1 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CELESTIS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TAURUS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GLOBALSTAR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> COMETS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> EUROBIRD </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TRACE
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> NILESAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CHINASTAR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SSN-23 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> FASAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TMSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TECHSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> WESTPAC
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SAFIR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SINOSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CZ-3B </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ST-1
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MAQSAT/ARIANE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SEDSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AFRISTAR
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AMC-5 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> PAN </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ISS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> BONUM </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SATMEX </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SWAS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ASTRID </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ROCSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ARGOS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ORSTED
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SUNSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> WIRE
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SEA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> BLOCK </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SS-18 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ABRIXAS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ORION </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SJ-5
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TERRIERS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MUBLCOM
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> NIMIQ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TUBSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> QUIKSCAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> FUSE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CXO
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TELKOM </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CZ-1 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> YAMAL </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> IKONOS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CBERS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SACI </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AMC-4 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HELIOS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CLEMENTINE
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> XMM
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TERRA
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> KOMPSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ACRIMSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OPAL
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> FALCONSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MINOTAUR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> PICOSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DUMSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GARUDA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MTI
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> FREGAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ASIASTAR
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> IMAGE
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SESAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SIMSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> BREEZE-M </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TSX-5
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CZ-3A </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TZINGHUA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SNAP </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CHAMP
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CLUSTER </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> NILESAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DM-F3
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> JB-3 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AMC-7 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SAUDISAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MEGSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> UNISAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TIUNGSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DNEPR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> NSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HETE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> THURAYA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AMC-6 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> BEIDOU </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AMSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> EO </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SAC </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MUNIN
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> EROS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AMC-8 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SICRAL </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ODIN
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> EUROBIRD
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> XM-2
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> XM-1
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ICO </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ARTEMIS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> LRE
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> H-2A </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ATLANTIC </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> PCSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SAPPHIRE
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> QUICKBIRD </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TES
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> PROBA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> BIRD </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> JASON
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TIMED
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> KOMPASS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> BADR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MAROC </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> REFLECTOR
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MDS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DASH/VEP </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HESSI
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ENVISAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GRACE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> IDEFIX/ARIANE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AQUA
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HAIYANG </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CZ-4B </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OFEQ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TIMED </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MSG </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DRTS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> KALPANA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> INTEGRAL
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ALSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MOZHAYETS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> RUBIN </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ADEOS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> FEDSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> WEOS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MICRO </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> LATINSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> UNISAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TRAILBLAZER </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SL-24 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> PLEM </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CORIOLIS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CHIPSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SORCE
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> XSS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GALEX
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HELLAS-SAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AMC-9 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MONITOR-E/SL-19
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MIMOSA
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DTUSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MOST
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CUTE-1
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> QUAKESAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AAU </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CANX-1
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CUBESAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SCISAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MOZHAYETS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> NIGERIASAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> UK-DMC
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> BILSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> LARETS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> KAISTSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> E-BIRD
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HORIZONS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CHUANG </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SERVIS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GRUZOMAKET
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ESTRELA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AMC-10 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MBSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TANSUO </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> NAXING </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CZ-2C </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GP-B
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AMC-11 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> APRIZESAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DEMETER
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SAUDICOMSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AURA
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DOUBLESTAR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AMAZONAS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SJ-6A
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SJ-6B
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AMC-15
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> RITE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AMC-16
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SWIFT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> NANOSAT(1)
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> PARASOL
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TATIANA
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> XTAR-EUR
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SLOSHSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MTSAT-1R
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> XM-3
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DART
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SPACEWAY </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CARTOSAT-1
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HAMSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SJ-7
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CZ-2D </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ASTRO </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> IPSTAR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OICETS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> INDEX
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MONITOR-E </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OICETS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> INDEX </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SARA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SYRACUSE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> BEIJING </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TOPSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> UWE-1
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SINAH </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SSETI-EXPRESS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SSETI-EXPRESS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MOZ.5/SAFIR/RUBIN </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GIOVE-A
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AMC-23
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ALOS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MTSAT-2
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SPAINSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ST5-A
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ST5-B
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ST5-C
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SCATHA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> FORMOSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> YAOGAN </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CLOUDSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CALIPSO
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> KOMPASS-2
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SL-21 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> KAZSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GENESIS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> KOMPSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HINODE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> LDREX </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> METOP-A
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SJ-6C
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SJ-6D
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> XM-4
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> WILDBLUE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AMC-18
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TACSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SAR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MERIDIAN </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SL-4 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> COROT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> LAPAN-TUBSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CARTOSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> PEHUENSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> THEMIS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MIDSTAR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> STPSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> FALCONSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CFESAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> EGYPTSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CSTB </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> MAST
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> LIBERTAD </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CP3
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CAPE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CP4
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AEROCUBE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AGILE
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AAM/PSLV
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> NFIRE
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AIM
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> NIGCOMSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SKYMED </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TERRA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> BSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GSLV </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> WORLDVIEW </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CZ-4C </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> STAR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SES </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> RADARSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> RASCOM </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TECSAR
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> WINDS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AMC-14
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> C/NOFS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> VINASAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CTDRS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CZ-3C </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GIOVE-B
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SL-23 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CANX-6
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CUTE-1.7+APD </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> IMS-1
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> COMPASS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AAUSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DELFI </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CANX-2
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SEEDS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> YUBILEINY
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GLAST
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> JASON </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AMC-21
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> RAPIDEYE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HJ-1A
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HJ-1B
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GEOEYE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DEMOSAT/FALCON </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> THEOS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SJ-6E
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SJ-6F
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> VENESAT-1
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SHIYUAN </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CIEL-2
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GOSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> PRISM </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SPRITE-SAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> KAGAYAKI
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SOHLA-1 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SDS-1
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> STARS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> KKS-1 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> KORONAS-FOTON
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ATLBIRD </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SPIRALE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> GOCE
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> RISAT-2
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ANUSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SES-7 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> PHARMASAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CP6
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> HAWKSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ALOS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TERRESTAR </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> RAZAKSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> FALCON </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> STERKH
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DEIMOS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DUBAISAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> DMC </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> NANOSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> METEOR-M
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> STERKH </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> FREGAT/IRIS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TATIANA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> UGATUSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SUMBANDILA
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> BLITS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OCEANSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SWISSCUBE
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> BEESAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> UWE-2
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ITUPSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AMAZONAS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> COMSATBW-1
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SMOS
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SJ-11-01
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> WISE
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> XIWANG-1 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> WISE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SDO
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SOYUZ-TMA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> CRYOSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> BREEZE </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> PROGRESS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> COMSATBW-2
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SJ-12
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> PICARD
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> PRISMA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> BPA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TANDEM </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> SHAVIT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> COMS </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> PROGRESS-M </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> STUDSAT
+ </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> AISSAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TISAT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> TIANHUI </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> OBJECT </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> QZS-1 </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName> ZHEDA </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
+<satName>  </satName><countryOfOrigin> NAME HERE </countryOfOrigin>
